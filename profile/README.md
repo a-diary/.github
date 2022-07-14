@@ -75,4 +75,4 @@
 
 ## 联系方式
 
-邮箱： [mailto:mail@yixiangzhilv.com](mail@yixiangzhilv.com)
+邮箱： [mail@yixiangzhilv.com](mailto:mail@yixiangzhilv.com)
